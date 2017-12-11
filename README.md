@@ -1,7 +1,7 @@
 # Viaduct: Bridging San Antonio’s Public Transportation to the Future
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+Team Viaduct strives to collaborate with San Antonio residents and public transportation stake holders to improve San Antonio's public transportation network for all.  Utilizing data science to identify the root causes of low public transportation usage and suggesting new ideas to boost San Antonio's public transportation efficiency.   
 
 ## Code Example
 
@@ -9,7 +9,8 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+San Antonio is the 7th largest city in the US, but rated 56th Nationally for public transportation trips per capita.  There is a plethora of data on traffic patterns, public transportation usuage, and public opinion on transportation.  Can a deep dive into available data reveal alternate solutions to the San Antonio public transportation system.  
+
 
 ## Installation
 
@@ -26,7 +27,3 @@ Describe and show how to run the tests with code examples.
 ## Contributors
 
 Tim Keyes and Jon Roberts.  Geekdom San Antonio
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
